@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+dashscope
+pandas
+openpyxl
+reportlab
